@@ -46,11 +46,26 @@ This project is a content-based recommendation system that matches customers to 
 ---
 
 ## Visualizations
-### Customer Attribute Distribution
-![Customer Salary Distribution](path/to/salary_plot.png)
+## Visualizations
 
-### Product Recommendation Distribution
-![Recommendation Distribution](path/to/recommendation_pie.png)
+### **1. Customer Attribute Distribution**
+
+#### **Salary Distribution**
+This bar chart shows the salary distribution across customers.
+
+![Customer Salary Distribution](visualizations/salary_plot.png)
+
+#### **Credit Score Distribution**
+This bar chart illustrates the credit score distribution for all customers.
+
+![Customer Credit Score Distribution](visualizations/credit_score_plot.png)
+
+---
+
+### **2. Product Recommendation Distribution**
+The pie chart below shows the proportion of recommended products, categorized by product type (e.g., Credit Cards, Loans, Investment Accounts).
+
+![Recommendation Distribution](visualizations/recommendation_pie.png)
 
 ---
 
