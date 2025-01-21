@@ -40,3 +40,29 @@ This project is a content-based recommendation system that matches customers to 
    - Pie chart for product recommendation distribution.
 
 ---
+
+
+
+---
+
+## Visualizations
+### Customer Attribute Distribution
+![Customer Salary Distribution](path/to/salary_plot.png)
+
+### Product Recommendation Distribution
+![Recommendation Distribution](path/to/recommendation_pie.png)
+
+---
+
+## Future Enhancements
+- **Behavioral Data**: Incorporate customer spending patterns and transaction history.
+- **Hybrid Recommendations**: Combine with collaborative filtering for improved accuracy.
+- **Advanced Models**: Implement machine learning algorithms for predictive scoring.
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/financial-product-recommender.git
+
