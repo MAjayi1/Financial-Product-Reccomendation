@@ -79,5 +79,5 @@ The pie chart below shows the proportion of recommended products, categorized by
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-product-recommender.git
+   git clone https://github.com/MAjayi1/financial-product-recommender.git
 
